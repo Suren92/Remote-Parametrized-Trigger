@@ -1,0 +1,19 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse-specific stuff
+.classpath
+.project
+*.prefs
+
+
+# jenkins data directory, build dir and release settings
+work
+release.properties
+target
+*.releaseBackup
+*.swp
